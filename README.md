@@ -28,5 +28,10 @@
 <a href="src/main/java/for_beginners/three_fat_men_0754_7">Три толстяка 0754 7</a> ||
 <a href="src/main/java/for_beginners/binary_numbers_0692_8">Бинарные числа 0692 8</a> ||
 <a href="src/main/java/for_beginners/coin_0106_8">Монетки 0106 8</a> ||
+<a href="src/main/java/for_beginners/mouse_0907_9">Мышка 0907 9</a> ||
 
+
+
+<h3>Целочисленная арифметика</h3>
+<a href="src/main/java/arithmetic/twenty_five_0003_8">Двадцать пять 0003 8</a> ||
 
