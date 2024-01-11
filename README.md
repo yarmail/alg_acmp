@@ -1,11 +1,13 @@
 <h3>Решаем задачи с сайта acmp.ru</h3>
 <b>Описание</b>: один из вариантов для начинающих начать решать алгоритмические задачи. <br>
+Как я понимаю в этом сборнике 1000 задач.<br>
 <b>Инструкция</b>: Заходим на сайт, регистрируемся и решаем задачи в порядке <br>
 увеличения сложности. Для этого можно отсортировать задачи по увеличению сложности<br>
 Ссылка: https://acmp.ru/index.asp?main=tasks&ob=iq&id_type=0 <br>
-<b>Как пользоваться</b>. Заходим по ссылке в папку и смотрим всё, что есть по задаче <br>
-(может быть условие, решение, аналогии и т.д.). <br>
-<b>Условные обозначения</b> - рядом с названием задачи может быть её ID и процент сложности<br>
+<b>Как пользоваться этим проектом</b>. Заходим по ссылке в папку и смотрим всё, 
+что есть по задаче (может быть условие, решение, аналогии и т.д.). <br>
+<b>Условные обозначения</b> - рядом с названием задачи может быть её ID и её текущий <br>
+процент сложности<br>
 Жми ★ если понравилось. <br>
 
 <h3>Задачи для начинающих</h3>
@@ -41,13 +43,46 @@
 <a href="src/main/java/for_beginners/keyboard_0066_11">Клавиатура 0066 11</a> ||
 <a href="src/main/java/for_beginners/state_machine_0035_11">Конечные автоматы 0035 11</a> ||
 <a href="src/main/java/for_beginners/repair_0697_11">Ремонт 0697 11</a> ||
-
+<a href="src/main/java/for_beginners/conditioner_0854_12">Кондиционер 0854 12</a> || <br>
+<a href="src/main/java/for_beginners/phone_0933_12">Телефон 0933 12</a> ||
+<a href="src/main/java/for_beginners/triangle3_0606_12">Треугольник-3 0606 12</a> ||
+<a href="src/main/java/for_beginners/flowers_0504_12">Цветочки 0504 12</a> ||
+<a href="src/main/java/for_beginners/spelling_0940_13">Орфография 0940 13</a> || <br>
+<a href="src/main/java/for_beginners/string_book_0948_13">Строки в книге 0948 13</a> ||
+<a href="src/main/java/for_beginners/bus_tour_0233_14">Автобусная экскурсия 0233 14</a> ||
+<a href="src/main/java/for_beginners/watermelon_0081_14">Арбузы 0081 14</a> ||
+<a href="src/main/java/for_beginners/known_everybody_0839_14">Всем известно 0839 14</a> || <br>
+<a href="src/main/java/for_beginners/tea_0818_14">Кипячение чая 0818 14</a> ||
+<a href="src/main/java/for_beginners/arrival_time_0331_15">Время прибытия 0331 15</a> ||
+<a href="src/main/java/for_beginners/playing_dice_0929_15">Игральные кубики 0929 15</a> ||
 
 
 
 
 <h3>Целочисленная арифметика</h3>
 <a href="src/main/java/arithmetic/twenty_five_0003_8">Двадцать пять 0003 8</a> ||
+<a href="src/main/java/arithmetic/lucky_ticket_0052_12">Счастливый билет 0052 12</a> ||
+<a href="src/main/java/arithmetic/divination_0023_13">Гадание 0023 13</a> ||
+
+
+
+<h3>Геометрия</h3>
+<a href="src/main/java/geometry/cut_0529_12">Длина отрезка 0529 12</a> ||
+
+
+
+<h3>Математическое моделирование</h3>
+<a href="src/main/java/math_model/stairs_0514_14">Лестница 0514 14</a> ||
+<a href="src/main/java/math_model/thimble_0678_15">Наперстки 0678 15</a> ||
+
+
+
+<h3>Простая математика</h3>
+<a href="src/main/java/simple_math/arithmetic_progression_0312_15">Арифметическая прогрессия 0312 15</a> ||
+<a href="src/main/java/simple_math/arithmetic_progression_0312_15">Головоломка про ферзей 0086 15</a> ||
+<a href="src/main/java/simple_math/cell_0062_15">Клетки 0062 15</a> ||
+
+
 
 <br><br><br>
 Моя статистика: <br>
