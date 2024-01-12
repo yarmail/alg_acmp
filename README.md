@@ -4,7 +4,7 @@
 <b>Инструкция</b>: Заходим на сайт, регистрируемся и решаем задачи в порядке <br>
 увеличения сложности. Для этого можно отсортировать задачи по увеличению сложности<br>
 Ссылка: https://acmp.ru/index.asp?main=tasks&ob=iq&id_type=0 <br>
-<b>Как пользоваться этим проектом</b>. Заходим по ссылке в папку и смотрим всё, 
+<b>Как пользоваться этим проектом</b>. Заходим по ссылке в папку и смотрим всё, <br>
 что есть по задаче (может быть условие, решение, аналогии и т.д.). <br>
 <b>Условные обозначения</b> - рядом с названием задачи может быть её ID и её текущий <br>
 процент сложности<br>
@@ -55,6 +55,9 @@
 <a href="src/main/java/for_beginners/tea_0818_14">Кипячение чая 0818 14</a> ||
 <a href="src/main/java/for_beginners/arrival_time_0331_15">Время прибытия 0331 15</a> ||
 <a href="src/main/java/for_beginners/playing_dice_0929_15">Игральные кубики 0929 15</a> ||
+<a href="src/main/java/for_beginners/census_0131_15">Перепись 0131 15</a> || <br>
+<a href="src/main/java/for_beginners/subarray_array_0284_15">Подмассив массива 0284 15 (-)</a> ||
+
 
 
 
@@ -63,11 +66,14 @@
 <a href="src/main/java/arithmetic/twenty_five_0003_8">Двадцать пять 0003 8</a> ||
 <a href="src/main/java/arithmetic/lucky_ticket_0052_12">Счастливый билет 0052 12</a> ||
 <a href="src/main/java/arithmetic/divination_0023_13">Гадание 0023 13</a> ||
+<a href="src/main/java/arithmetic/nod_0148_15">НОД 0148 15</a> || <br>
 
 
 
 <h3>Геометрия</h3>
 <a href="src/main/java/geometry/cut_0529_12">Длина отрезка 0529 12</a> ||
+<a href="src/main/java/geometry/area_triangle_0822_15">Площадь треугольника 0822 15 (-)</a> ||
+
 
 
 
