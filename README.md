@@ -57,7 +57,11 @@
 <a href="src/main/java/for_beginners/playing_dice_0929_15">Игральные кубики 0929 15</a> ||
 <a href="src/main/java/for_beginners/census_0131_15">Перепись 0131 15</a> || <br>
 <a href="src/main/java/for_beginners/subarray_array_0284_15">Подмассив массива 0284 15 (-)</a> ||
-
+<a href="src/main/java/for_beginners/neighboring_cells_0791_15">Соседние клетки 0791 15</a> ||
+<a href="src/main/java/for_beginners/heron_0850_15">Цапли 0850 15</a> ||
+<a href="src/main/java/for_beginners/circle_0297_16">Кругляши 0297 16</a> || <br>
+<a href="src/main/java/for_beginners/metro_0263_16">Метро 0263 16</a> ||
+<a href="src/main/java/for_beginners/zero_0043_16">Нули 0043 16</a> ||
 
 
 
@@ -67,12 +71,14 @@
 <a href="src/main/java/arithmetic/lucky_ticket_0052_12">Счастливый билет 0052 12</a> ||
 <a href="src/main/java/arithmetic/divination_0023_13">Гадание 0023 13</a> ||
 <a href="src/main/java/arithmetic/nod_0148_15">НОД 0148 15</a> || <br>
+<a href="src/main/java/arithmetic/step_happiness_0327_16">В одном шаге от счастья 0327 16</a> ||
 
 
 
 <h3>Геометрия</h3>
 <a href="src/main/java/geometry/cut_0529_12">Длина отрезка 0529 12</a> ||
 <a href="src/main/java/geometry/area_triangle_0822_15">Площадь треугольника 0822 15 (-)</a> ||
+<a href="src/main/java/geometry/ring_0894_16">Кольцо 0894 16</a> ||
 
 
 
@@ -86,7 +92,27 @@
 <h3>Простая математика</h3>
 <a href="src/main/java/simple_math/arithmetic_progression_0312_15">Арифметическая прогрессия 0312 15</a> ||
 <a href="src/main/java/simple_math/arithmetic_progression_0312_15">Головоломка про ферзей 0086 15</a> ||
-<a href="src/main/java/simple_math/cell_0062_15">Клетки 0062 15</a> ||
+<a href="src/main/java/simple_math/cell_0062_15">Клетки 0062 15</a> || <br>
+<a href="src/main/java/simple_math/snake3_0943_16">Змейка-3 0943 16</a> ||
+
+
+
+
+
+<h3>Сортировка и последовательности</h3>
+<a href="src/main/java/sorting_and_sequences/statistics_0005_90">Статистика 0005 15</a> ||
+
+
+
+<h3>Системы счисления</h3>
+<a href="src/main/java/number_systems/one_0022_16">Единицы 0022 16</a> ||
+
+
+
+
+<h3>Разбор строк</h3>
+<a href="src/main/java/parsing_strings/number_buses_0691_16">Номера автобусов 0691 16</a> ||
+
 
 
 
