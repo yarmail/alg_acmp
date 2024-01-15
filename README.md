@@ -4,8 +4,12 @@
 <b>Инструкция</b>: Заходим на сайт, регистрируемся и решаем задачи в порядке <br>
 увеличения сложности. Для этого можно отсортировать задачи по увеличению сложности<br>
 Ссылка: https://acmp.ru/index.asp?main=tasks&ob=iq&id_type=0 <br>
-<b>Как пользоваться этим проектом</b>. Заходим по ссылке в папку и смотрим всё, <br>
-что есть по задаче (может быть условие, решение, аналогии и т.д.). <br>
+<b>Как пользоваться этим проектом</b>. 10 минут пробуем решить задачу самостоятельно. <br>
+Если интересных идей не приходит - заходим по ссылке в папку и смотрим всё, <br>
+что есть по задаче (может быть условие, решение, аналогии и т.д.). Перепечатываем решение <br>
+(пожалуйста не используйте копипаст, это важно). Пробуем разобраться почему решение именно <br> 
+такое, обращаем внимание какие типы используются в решении, возможно на этом этапе могут <br>
+прийти мысли, а можно ли было сделать по-другому. Свои варианты решения приветствуются.<br>
 <b>Условные обозначения</b> - рядом с названием задачи может быть её ID и её текущий <br>
 процент сложности<br>
 Жми ★ если понравилось. <br>
@@ -62,6 +66,10 @@
 <a href="src/main/java/for_beginners/circle_0297_16">Кругляши 0297 16</a> || <br>
 <a href="src/main/java/for_beginners/metro_0263_16">Метро 0263 16</a> ||
 <a href="src/main/java/for_beginners/zero_0043_16">Нули 0043 16</a> ||
+<a href="src/main/java/for_beginners/field_0844_16">Поля 0844 16</a> ||
+<a href="src/main/java/for_beginners/chess_field_0935_16">Шахматное поле 0935 16</a> ||
+<a href="src/main/java/for_beginners/neerc_0637_17">NEERC 0637 17</a> || <br>
+<a href="src/main/java/for_beginners/bolts_nuts_0294_17">Болты и гайки 0294 17</a> ||
 
 
 
@@ -72,14 +80,15 @@
 <a href="src/main/java/arithmetic/divination_0023_13">Гадание 0023 13</a> ||
 <a href="src/main/java/arithmetic/nod_0148_15">НОД 0148 15</a> || <br>
 <a href="src/main/java/arithmetic/step_happiness_0327_16">В одном шаге от счастья 0327 16</a> ||
+<a href="src/main/java/arithmetic/fibonacci_0147_16">Числа Фибоначчи 0147 16</a> ||
 
 
 
 <h3>Геометрия</h3>
 <a href="src/main/java/geometry/cut_0529_12">Длина отрезка 0529 12</a> ||
 <a href="src/main/java/geometry/area_triangle_0822_15">Площадь треугольника 0822 15 (-)</a> ||
-<a href="src/main/java/geometry/ring_0894_16">Кольцо 0894 16</a> ||
-
+<a href="src/main/java/geometry/ring_0894_16">Кольцо 0894 16</a> || <br>
+<a href="src/main/java/geometry/two_ring_0026_17">Две окружности 0026 17</a> ||
 
 
 
@@ -94,8 +103,7 @@
 <a href="src/main/java/simple_math/arithmetic_progression_0312_15">Головоломка про ферзей 0086 15</a> ||
 <a href="src/main/java/simple_math/cell_0062_15">Клетки 0062 15</a> || <br>
 <a href="src/main/java/simple_math/snake3_0943_16">Змейка-3 0943 16</a> ||
-
-
+<a href="src/main/java/simple_math/manhattan_streets_0817_17">	Манхэттенские улицы 0817 17</a> ||
 
 
 
@@ -106,6 +114,13 @@
 
 <h3>Системы счисления</h3>
 <a href="src/main/java/number_systems/one_0022_16">Единицы 0022 16</a> ||
+
+
+
+
+<h3>Двумерные массивы</h3>
+<a href="src/main/java/two_dimensional_arrays/negative_0715_17">Миша и негатив 0715 17</a> ||
+
 
 
 
