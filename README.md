@@ -8,8 +8,9 @@
 Если интересных идей не приходит - заходим по ссылке в папку и смотрим всё, <br>
 что есть по задаче (может быть условие, решение, аналогии и т.д.). Перепечатываем решение <br>
 (пожалуйста не используйте копипаст, это важно). Пробуем разобраться почему решение именно <br> 
-такое, обращаем внимание какие типы используются в решении, возможно на этом этапе могут <br>
-прийти мысли, а можно ли было сделать по-другому. Свои варианты решения приветствуются.<br>
+такое, обращаем внимание какие типы используются в решении, какие пограничные условия, <br> 
+возможно на этом этапе могут прийти мысли, а можно ли было сделать по-другому.<br>
+Свои варианты решения приветствуются.<br>
 <b>Условные обозначения</b> - рядом с названием задачи может быть её ID и её текущий <br>
 процент сложности<br>
 Жми ★ если понравилось. <br>
@@ -70,6 +71,14 @@
 <a href="src/main/java/for_beginners/chess_field_0935_16">Шахматное поле 0935 16</a> ||
 <a href="src/main/java/for_beginners/neerc_0637_17">NEERC 0637 17</a> || <br>
 <a href="src/main/java/for_beginners/bolts_nuts_0294_17">Болты и гайки 0294 17</a> ||
+<a href="src/main/java/for_beginners/thaw_0264_17">Оттепель 0264 17</a> ||
+<a href="src/main/java/for_beginners/picking_blueberries_0496_17">Сбор черники 0496 17</a> || <br>
+<a href="src/main/java/for_beginners/fibonacci_sequence_0949_17">Фибоначчиева последовательность 0949 17</a> ||
+<a href="src/main/java/for_beginners/in_bus_0952_18">В автобусе 0952 18</a> ||
+<a href="src/main/java/for_beginners/office_0778_18">Офис 0778 18</a> || <br>
+<a href="src/main/java/for_beginners/rally_0711_18">Соревнование картингистов 0711 18</a> ||
+<a href="src/main/java/for_beginners/chessboard2_0798_18">Шахматная доска-2 0798 18</a> ||
+<a href="src/main/java/for_beginners/rook_0763_19">Игра с ладьей 0763 19</a> || <br>
 
 
 
@@ -81,6 +90,19 @@
 <a href="src/main/java/arithmetic/nod_0148_15">НОД 0148 15</a> || <br>
 <a href="src/main/java/arithmetic/step_happiness_0327_16">В одном шаге от счастья 0327 16</a> ||
 <a href="src/main/java/arithmetic/fibonacci_0147_16">Числа Фибоначчи 0147 16</a> ||
+
+
+
+<h3>Простая математика</h3>
+<a href="src/main/java/simple_math/arithmetic_progression_0312_15">Арифметическая прогрессия 0312 15</a> ||
+<a href="src/main/java/simple_math/arithmetic_progression_0312_15">Головоломка про ферзей 0086 15</a> ||
+<a href="src/main/java/simple_math/cell_0062_15">Клетки 0062 15</a> || <br>
+<a href="src/main/java/simple_math/snake3_0943_16">Змейка-3 0943 16</a> ||
+<a href="src/main/java/simple_math/manhattan_streets_0817_17">	Манхэттенские улицы 0817 17</a> ||
+<a href="src/main/java/simple_math/equation_0010_17"> Уравнение 0010 17</a> ||
+<a href="src/main/java/simple_math/riddle_0063_18"> Загадка 0063 18</a> ||
+
+
 
 
 
@@ -98,14 +120,6 @@
 
 
 
-<h3>Простая математика</h3>
-<a href="src/main/java/simple_math/arithmetic_progression_0312_15">Арифметическая прогрессия 0312 15</a> ||
-<a href="src/main/java/simple_math/arithmetic_progression_0312_15">Головоломка про ферзей 0086 15</a> ||
-<a href="src/main/java/simple_math/cell_0062_15">Клетки 0062 15</a> || <br>
-<a href="src/main/java/simple_math/snake3_0943_16">Змейка-3 0943 16</a> ||
-<a href="src/main/java/simple_math/manhattan_streets_0817_17">	Манхэттенские улицы 0817 17</a> ||
-
-
 
 <h3>Сортировка и последовательности</h3>
 <a href="src/main/java/sorting_and_sequences/statistics_0005_90">Статистика 0005 15</a> ||
@@ -117,16 +131,20 @@
 
 
 
-
 <h3>Двумерные массивы</h3>
 <a href="src/main/java/two_dimensional_arrays/negative_0715_17">Миша и негатив 0715 17</a> ||
 
 
 
-
-
 <h3>Разбор строк</h3>
 <a href="src/main/java/parsing_strings/number_buses_0691_16">Номера автобусов 0691 16</a> ||
+
+
+
+
+
+<h3>Теория графов</h3>
+<a href="src/main/java/graph_theory/road_0015_18">Дороги 0015 18</a> ||
 
 
 
